@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I'm **Devang Parmar** 👋<br><br>I'm a final-year Computer Science student and a passionate **Full-Stack Developer** with a strong interest in **Backend Development**, **Data Structures & Algorithms**, and **System Design**. I enjoy building scalable web applications using the **MERN Stack** and continuously improving my problem-solving skills through coding challenges. I'm always eager to learn new technologies and build projects that solve real-world problems.<br>
 
 
